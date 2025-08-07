@@ -10,3 +10,5 @@ import { turboLogger } from "./turboLogger.js";
 console.log("GitHub Test.");
 
 turboLogger("Git Workflow.", "red");
+
+turboLogger("Update system messages.", "darkgreen");
